@@ -8,11 +8,11 @@
 }
 
 #footer{
-    width: 400px;
+    width: 320px;
     height: 150px;
     position: absolute;
     bottom: 5%;
     left: 50%;
-    margin-left: -200px;
+    margin-left: -160px;
     background-color: antiquewhite;
 }
