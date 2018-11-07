@@ -1,19 +1,20 @@
 #main{
-    width: 300px;
-    height: 300px;
+    width: 800px;
+    height: 800px;
     position: absolute;
     top: 50%;
     left: 50%;
-    margin: -150px 0 0 -150px;
+    margin: -400px 0 0 -400px;
+    background-color: #AAA;
 }
 
 #footer{
-    width: 565px;
-    height: 135px;
+    width: 715px;
+    height: 215px;
     position: absolute;
     bottom: 5%;
     left: 50%;
-    margin-left: -282.5px;
+    margin-left: -357.5px;
 }
 
 #ad_frame
@@ -21,7 +22,7 @@
     margin: 0px;
     padding: 0px;
     border: 0px;
-    width: 565px;
-    height: 135px;
+    width: 715px;
+    height: 215px;
     background-color: #222222;
 }
