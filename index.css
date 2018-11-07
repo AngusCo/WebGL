@@ -16,3 +16,13 @@
     margin-left: -300px;
     background-color: antiquewhite;
 }
+
+#ad_frame
+{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    width: 560px;
+    height: 130px;
+    background-color: red;
+}
