@@ -1,0 +1,17 @@
+#footer_ad{
+    z-index: 9;
+    width: 700px;
+    height: 200px;
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    margin-left: -357.5px;
+    background-color: darkseagreen;
+}
+
+#ad_frame
+{
+    width: 700px;
+    height: 200px;
+    background-color: brown;
+}
