@@ -1,7 +1,7 @@
 #footer_ad{
     z-index: 9;
-    width: 700px;
-    height: 200px;
+    width: 715px;
+    height: 215px;
     position: fixed;
     bottom: 10px;
     left: 50%;
@@ -11,7 +11,7 @@
 
 #ad_frame
 {
-    width: 700px;
-    height: 200px;
+    width: 715px;
+    height: 215px;
     background-color: brown;
 }
