@@ -1,16 +1,15 @@
 #footer_ad{
     z-index: 100;
-    width: 366px;
+    width: 356px;
     height: 116px;
     position: fixed;
     bottom: 10px;
     left: 50%;
-    margin-left: -183px;
-    background-color: aquamarine;
+    margin-left: -178px;
 }
 
 #ad_frame
 {
-    width: 366px;
+    width: 356px;
     height: 116px;
 }

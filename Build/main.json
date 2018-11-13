@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "PublishTest",
+"companyName": "Addict2",
+"productName": "WebGL",
 "dataUrl": "main.data.unityweb",
 "wasmCodeUrl": "main.wasm.code.unityweb",
 "wasmFrameworkUrl": "main.wasm.framework.unityweb",
