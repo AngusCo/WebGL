@@ -1,15 +1,15 @@
 #footer_ad{
     z-index: 100;
-    width: 716px;
+    width: 300px;
     height: 216px;
     position: fixed;
     bottom: 10px;
     left: 50%;
-    margin-left: -358px;
+    margin-left: -150px;
 }
 
 #ad_frame
 {
-    width: 716px;
+    width: 300px;
     height: 216px;
 }
