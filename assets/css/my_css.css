@@ -29,3 +29,19 @@
     width: 616px;
     height: 616px;
 }
+
+#footer_ad_400{
+    z-index: 100;
+    width: 416px;
+    height: 416px;
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    margin-left: -208px;
+}
+
+#ad_frame_400
+{
+    width: 416px;
+    height: 416px;
+}
