@@ -1,12 +1,16 @@
 {
-"companyName": "Addict2",
-"productName": "WebGL",
+"companyName": "DefaultCompany",
+"productName": "Shader Test",
+"productVersion": "0.1",
 "dataUrl": "main.data.unityweb",
 "wasmCodeUrl": "main.wasm.code.unityweb",
 "wasmFrameworkUrl": "main.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"cacheControl": {"default": "must-revalidate"}
+"transparent": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.1f1"
 }
